@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="112" role="img" aria-label="Programmers solving stats">
+  <rect width="470" height="112" rx="12" fill="#111827"/>
+  <text x="22" y="31" fill="#ffffff" font-family="Arial, sans-serif" font-size="18" font-weight="700">Programmers</text>
+  <text x="22" y="67" fill="#d1d5db" font-family="Arial, sans-serif" font-size="14">Run the GitHub Actions workflow once</text>
+  <text x="22" y="93" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">It will replace this placeholder with live solving stats.</text>
+</svg>
