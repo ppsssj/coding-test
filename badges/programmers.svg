@@ -21,7 +21,7 @@
         fill="#9ca3af"
         font-family="Arial, sans-serif"
         font-size="13">
-    JavaScript · 60 solved
+    JavaScript · 72 solved
   </text>
 
   <line x1="22" y1="45" x2="448" y2="45" stroke="#374151"/>
@@ -30,7 +30,7 @@
   <text x="70" y="75" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="700">52</text>
 
   <text x="125" y="75" fill="#d1d5db" font-family="Arial, sans-serif" font-size="13">Lv.1</text>
-  <text x="173" y="75" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="700">8</text>
+  <text x="173" y="75" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="700">20</text>
 
   <text x="228" y="75" fill="#d1d5db" font-family="Arial, sans-serif" font-size="13">Lv.2</text>
   <text x="276" y="75" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="700">0</text>
